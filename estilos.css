@@ -1,0 +1,13 @@
+h1, p, i {
+    color: rgb(236, 40, 236);
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.titulo {
+    color: rgb(50, 34, 196);
+}
+
+#paragrafo {
+    color: rgb(44, 204, 44);
+}
